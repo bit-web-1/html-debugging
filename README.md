@@ -4,6 +4,8 @@ This repo contains a nice, classic HTML file. But there are problems! See if you
 
 Remember to look for issues with best practice too, not just typos and stuff.
 
+Please don't touch the feedback Pull Request.
+
 ## Instructions:
 
 1. Clone this repo
@@ -13,3 +15,4 @@ Remember to look for issues with best practice too, not just typos and stuff.
 5. As you find and fix the bugs, make a new commit for every bug you fix
 6. Make sure you have really good commit messages
 7. Remember to push your changes at the end
+8. Merge your branch into the main branch to hand in your answers
